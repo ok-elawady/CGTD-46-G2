@@ -12,7 +12,7 @@ The CG Technical Director track focuses on bridging the gap between artistic vis
 
 ## 👥 Contributors
 **Group 2 Members:**
-*   **Omar Elawady** ([@ok-elawady](https://github.com/ok-elawady))
+*   **Omar Khaled** ([@ok-elawady](https://github.com/ok-elawady))
 *   **Omar Jamal** ([@OmarJojo](https://github.com/OmarJojo))
 *   **Mohamed Mokhtar** ([@12MohamedMokhtar21](https://github.com/12MohamedMokhtar21))
 
